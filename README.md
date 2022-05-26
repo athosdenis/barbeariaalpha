@@ -1,2 +1,2 @@
 # barbeariaalpha
-Link de aula
+Esse é um projeto trabalhado em sala de aula.
